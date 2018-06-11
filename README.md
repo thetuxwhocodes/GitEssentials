@@ -1,1 +1,2 @@
 # GitEssentials
+New line added.
